@@ -1,0 +1,9 @@
+C:\Users\eahscs\Documents\GitHub\RoverMan-client\RoverMan\RoverMan\RoverMan\bin\x86\Debug\Content\L.xnb
+C:\Users\eahscs\Documents\GitHub\RoverMan-client\RoverMan\RoverMan\RoverMan\bin\x86\Debug\Content\background.xnb
+C:\Users\eahscs\Documents\GitHub\RoverMan-client\RoverMan\RoverMan\RoverMan\bin\x86\Debug\Content\pellet.xnb
+C:\Users\eahscs\Documents\GitHub\RoverMan-client\RoverMan\RoverMan\RoverMan\bin\x86\Debug\RoverMan.exe
+C:\Users\eahscs\Documents\GitHub\RoverMan-client\RoverMan\RoverMan\RoverMan\bin\x86\Debug\RoverMan.pdb
+C:\Users\eahscs\Documents\GitHub\RoverMan-client\RoverMan\RoverMan\RoverMan\obj\x86\Debug\RoverMan.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\RoverMan-client\RoverMan\RoverMan\RoverMan\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\eahscs\Documents\GitHub\RoverMan-client\RoverMan\RoverMan\RoverMan\obj\x86\Debug\RoverMan.exe
+C:\Users\eahscs\Documents\GitHub\RoverMan-client\RoverMan\RoverMan\RoverMan\obj\x86\Debug\RoverMan.pdb
